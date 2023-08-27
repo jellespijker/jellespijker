@@ -48,3 +48,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_sponsors: yes
+          plugin_sponsors_past: true
+          plugin_sponsors_sections: list
