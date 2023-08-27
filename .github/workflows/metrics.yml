@@ -40,3 +40,11 @@ jobs:
             html, css, less, dockerfile, makefile, qmake, lex, shell, gnuplot, eagle
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+
+      - name: Sponsors introduction
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.sponsors.full.svg
+          token: ${{ secrets.METRICS_TOKEN_WITH_SCOPES }}
+          base: ""
+          plugin_sponsors: yes
