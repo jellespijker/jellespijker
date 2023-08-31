@@ -16,19 +16,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 587kb of code in 481 edited files across 527 commits over last 11 days</small>
+                <small>estimation from 612kb of code in 489 edited files across 519 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="207.4399528186291" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="207.4399528186291" y="0" width="201.08996507178193" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="408.529917890411" y="0" width="44.58989640026606" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.119814290677" y="0" width="4.141242496627017" height="8" fill="#44a51c"/>
-                    <rect mask="url(#languages-bar)" x="457.2610567873041" y="0" width="1.7342924006215445" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.9953491879256" y="0" width="0.9402342371941087" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="459.9355834251197" y="0" width="0.0644165748802288" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.67400993843756" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="227.67400993843756" y="0" width="173.79776326967612" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="401.4717732081137" y="0" width="51.74993308429052" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.22170629240424" y="0" width="3.579187468724179" height="8" fill="#44a51c"/>
+                    <rect mask="url(#languages-bar)" x="456.8008937611284" y="0" width="1.498911892376264" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="458.2998056535047" y="0" width="1.498911892376264" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.79871754588095" y="0" width="0.20128245411909831" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,8 +40,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>167 kB</div>
-                                <div>45.1%</div>
+                                <div>212 kB</div>
+                                <div>49.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -52,20 +52,20 @@
                                 Python
                             </div>
                             <small>
-                                <div>35.9 kB</div>
-                                <div>9.69%</div>
+                                <div>48.3 kB</div>
+                                <div>11.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#a52a22" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C
+                                Jinja
                             </div>
                             <small>
                                 <div>1.40 kB</div>
-                                <div>0.38%</div>
+                                <div>0.33%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -76,8 +76,8 @@
                                 CMake
                             </div>
                             <small>
-                                <div>52 bytes</div>
-                                <div>0.01%</div>
+                                <div>188 bytes</div>
+                                <div>0.04%</div>
                             </small>
                         </div>
                     </section>
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>162 kB</div>
-                                <div>43.72%</div>
+                                <div>37.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,19 +103,19 @@
                             </div>
                             <small>
                                 <div>3.34 kB</div>
-                                <div>0.9%</div>
+                                <div>0.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#a52a22" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jinja
+                                C
                             </div>
                             <small>
-                                <div>759 bytes</div>
-                                <div>0.2%</div>
+                                <div>1.40 kB</div>
+                                <div>0.33%</div>
                             </small>
                         </div>
                     </section>
