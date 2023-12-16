@@ -16,31 +16,31 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.44mb of code in 983 edited files across 652 commits over last 14 days</small>
+                <small>estimation from 1.66mb of code in 804 edited files across 601 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.5470549713009" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="237.5470549713009" y="0" width="204.48461034708578" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="442.0316653183866" y="0" width="7.5984436996802645" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="449.63010901806695" y="0" width="6.9038098540005395" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.5339188720675" y="0" width="3.422371175058104" height="8" fill="#44a51c"/>
-                    <rect mask="url(#languages-bar)" x="459.9562900471256" y="0" width="0.04370995287440451" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="350.0354620186161" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="350.0354620186161" y="0" width="79.7930128831836" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="429.8284749017997" y="0" width="16.740965284245725" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="446.5694401860454" y="0" width="7.397851452901463" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.9672916389469" y="0" width="5.934247748190743" height="8" fill="#44a51c"/>
+                    <rect mask="url(#languages-bar)" x="459.90153938713763" y="0" width="0.09846061286235762" height="8" fill="#a52a22"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Python
                             </div>
                             <small>
-                                <div>201 kB</div>
-                                <div>51.64%</div>
+                                <div>131 kB</div>
+                                <div>76.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,8 +51,8 @@
                                 CMake
                             </div>
                             <small>
-                                <div>6.43 kB</div>
-                                <div>1.65%</div>
+                                <div>6.29 kB</div>
+                                <div>3.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,8 +63,8 @@
                                 QML
                             </div>
                             <small>
-                                <div>2.90 kB</div>
-                                <div>0.74%</div>
+                                <div>2.23 kB</div>
+                                <div>1.29%</div>
                             </small>
                         </div>
                     </section>
@@ -72,13 +72,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                C++
                             </div>
                             <small>
-                                <div>173 kB</div>
-                                <div>44.45%</div>
+                                <div>29.9 kB</div>
+                                <div>17.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,8 +89,8 @@
                                 C
                             </div>
                             <small>
-                                <div>5.84 kB</div>
-                                <div>1.5%</div>
+                                <div>2.78 kB</div>
+                                <div>1.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -102,7 +102,7 @@
                             </div>
                             <small>
                                 <div>37 bytes</div>
-                                <div>0.01%</div>
+                                <div>0.02%</div>
                             </small>
                         </div>
                     </section>
