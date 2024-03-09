@@ -16,18 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 957kb of code in 1486 edited files across 536 commits over last 52 days</small>
+                <small>estimation from 853kb of code in 1414 edited files across 507 commits over last 51 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="319.1795295041259" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="319.1795295041259" y="0" width="120.76571686564225" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="439.94524636976814" y="0" width="9.335206382938953" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.28045275270716" y="0" width="7.7921260023667145" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="457.0725787550739" y="0" width="2.2746049844783234" height="8" fill="#44a51c"/>
-                    <rect mask="url(#languages-bar)" x="459.34718373955224" y="0" width="0.6528162604478353" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="360.1533204836166" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="360.1533204836166" y="0" width="85.01577010688628" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.1690905905029" y="0" width="8.639422671313332" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.80851326181624" y="0" width="4.8376587556542" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="458.6461720174704" y="0" width="0.7030352588439149" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="459.3492072763143" y="0" width="0.6507927236856621" height="8" fill="#44a51c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                             </div>
                             <small>
                                 <div>482 kB</div>
-                                <div>69.39%</div>
+                                <div>78.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,20 +51,20 @@
                                 C
                             </div>
                             <small>
-                                <div>14.1 kB</div>
-                                <div>2.03%</div>
+                                <div>11.5 kB</div>
+                                <div>1.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#44a51c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#a52a22" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                QML
+                                Jinja
                             </div>
                             <small>
-                                <div>3.44 kB</div>
-                                <div>0.49%</div>
+                                <div>942 bytes</div>
+                                <div>0.15%</div>
                             </small>
                         </div>
                     </section>
@@ -77,8 +77,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>182 kB</div>
-                                <div>26.25%</div>
+                                <div>113 kB</div>
+                                <div>18.48%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,19 +89,19 @@
                                 CMake
                             </div>
                             <small>
-                                <div>11.7 kB</div>
-                                <div>1.69%</div>
+                                <div>6.48 kB</div>
+                                <div>1.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#a52a22" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#44a51c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Jinja
+                                QML
                             </div>
                             <small>
-                                <div>987 bytes</div>
+                                <div>872 bytes</div>
                                 <div>0.14%</div>
                             </small>
                         </div>
